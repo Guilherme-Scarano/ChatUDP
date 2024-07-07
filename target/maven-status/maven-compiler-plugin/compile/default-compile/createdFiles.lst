@@ -1,0 +1,4 @@
+br\edu\ifsuldeminas\sd\sockets\server\MainServer.class
+br\edu\ifsuldeminas\sd\sockets\server\UDPEchoServer.class
+br\edu\ifsuldeminas\sd\sockets\client\UDPClient.class
+br\edu\ifsuldeminas\sd\sockets\server\UDPEchoServerException.class
